@@ -14,7 +14,7 @@ some_folder_path: Folderpath of log file
 		
 		java -jar JAR_NAME.jar SIMULATOR some_folder_path
 
-![Logs](./images/Logs.png)
+![Logs](./images/Logs.PNG)
 
 ### To Launch the tool to let user Query the server status
 
