@@ -37,4 +37,4 @@ some_folder_path: Folderpath of log file
 ![usaage](./images/usage.png)
 
 
-#### Refer Output_Report for detailed instructions.
+### [Refer Output_Report for detailed instructions](https://github.com/kalyaniyaganti9/ServerMonitoringSystem/blob/master/Output_Report.pdf)
