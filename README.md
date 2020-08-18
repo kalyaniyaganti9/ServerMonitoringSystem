@@ -2,7 +2,7 @@
 A monitoring system which lets you simulate logs and query the CPU usage
 
 
-# This Applications monitors the CPU usage for any given day for any server and lets user query the Status of CPU usage at any given time.
+# This Application monitors the CPU usage for any given day for any server and lets user query the Status of CPU usage at any given time.
 
 ## Navigate to code folder and execute below
 	 javac SolutionMain.java
